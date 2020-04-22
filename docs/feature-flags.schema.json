@@ -496,6 +496,11 @@
       "type": "boolean",
       "title": "Activates deletion for messages",
       "default": false
+    },
+    "storageEncryption.isEnabled": {
+      "type": "boolean",
+      "title": "Activates encryption for local storage",
+      "default": false
     }
   }
 }
